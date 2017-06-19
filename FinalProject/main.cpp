@@ -54,7 +54,7 @@ _ScreenStatus ScreenStatus = Main_Screen;
 //========= Screen Information =================================
 const int SCREEN_WIDTH = 1000;
 const int SCREEN_HEIGHT = 750;
-const char WINDOW_TITLE[20] = "BattleBot";
+const char WINDOW_TITLE[20] = "BumperCar";
 const int SCREEN_FPS = 60;
 const int SCREEN_TICK_PER_FRAME = 1000 / SCREEN_FPS;
 
